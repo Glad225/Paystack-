@@ -65,7 +65,7 @@ button{
 }
 .all-white{
     background-color: white;
-    width: 50%;
+    width: 30%;
 }
 .create{
     text-align: center;
@@ -86,6 +86,7 @@ input[type="radio"] {
 }
 .form-body{
     display: block;
+    width: 30px;
 }
 .please{
     display: block;

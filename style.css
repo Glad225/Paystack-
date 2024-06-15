@@ -57,6 +57,7 @@ button{
     padding: 10px 10px;
     width: 90%;
     border: none;
+    outline: none;
 }
 .not-body{
     display:grid;

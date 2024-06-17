@@ -10,6 +10,7 @@ body{
     width: 100%;
     min-height: 100vh;
     place-items: center;
+    display:grid;
 }
 .image{
     display: flex;

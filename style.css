@@ -114,3 +114,6 @@ select{
 .blue{
     color: blue;
 }
+.lex{
+    display:flex;
+}

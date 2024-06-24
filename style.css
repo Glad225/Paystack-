@@ -117,3 +117,24 @@ select{
 .lex{
     display:flex;
 }
+.info3{
+    display:flex;
+    justify-content:space-between;
+}
+.info2{
+    margin: 20px;
+}
+label{
+    margin: 20px;
+    font-weight: 300;
+}
+.info1{
+    padding: 10px;
+}
+.info{
+    padding: 10px;
+}
+.merge{
+    margin: 20px;
+    pading: 10px;
+}
